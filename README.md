@@ -36,4 +36,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 * Deploy your app to GitHub Pages and posted link to page - https://thesolecloset.github.io/Belly-Button-challenge/
 
 ### Documented Help Received For Assignment
-Received Help From Dave Gillis(Teacher)
+Received Help From Study Groups
