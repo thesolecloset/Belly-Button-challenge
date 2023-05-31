@@ -1,4 +1,4 @@
-## Belly-Button-challenge
+# Belly-Button-challenge
 
 # Please Click This Link To See The Deployed Site - https://thesolecloset.github.io/Belly-Button-challenge/
 
@@ -8,7 +8,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 
-### For this challenge I did the following:
+# For this challenge I did the following:
 
 ## Part 1 Import Data & Create A Bar Chart
 
