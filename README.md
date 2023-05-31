@@ -25,7 +25,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Part 3: Displayed Demographic Data & Key Pairs
 
 * Displayed the sample metadata of the selected individual's in the dropdown box demographic information
-* Displayed each key-value pair from the metadata JSON objecton the page.
+* Displayed each key-value pair from the metadata JSON object on the page.
 
 ## Part 4: Update The Display Via New Dropdown Box Selection
 
